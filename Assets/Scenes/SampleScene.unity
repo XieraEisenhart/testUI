@@ -11781,7 +11781,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -49.579987, y: -45.020004}
+  m_AnchoredPosition: {x: -49.579956, y: -45.02002}
   m_SizeDelta: {x: 84.83002, y: 58.100006}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &783242826
@@ -17227,8 +17227,8 @@ CanvasGroup:
   m_GameObject: {fileID: 1004637614}
   m_Enabled: 1
   m_Alpha: 0
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
+  m_Interactable: 0
+  m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
 --- !u!114 &1004637618
 MonoBehaviour:
@@ -17628,8 +17628,8 @@ CanvasGroup:
   m_GameObject: {fileID: 1137537851}
   m_Enabled: 1
   m_Alpha: 0
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
+  m_Interactable: 0
+  m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
 --- !u!114 &1137537855
 MonoBehaviour:
@@ -18067,8 +18067,8 @@ CanvasGroup:
   m_GameObject: {fileID: 1471706638}
   m_Enabled: 1
   m_Alpha: 0
-  m_Interactable: 1
-  m_BlocksRaycasts: 1
+  m_Interactable: 0
+  m_BlocksRaycasts: 0
   m_IgnoreParentGroups: 0
 --- !u!114 &1471706642
 MonoBehaviour:
